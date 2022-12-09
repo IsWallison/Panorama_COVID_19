@@ -31,7 +31,7 @@ Você também precisará de um software que possa executar um notebook python .i
 Neste notebook pudemos estudar um pouco os dados referentes ao COVID-19. Tendo o banco de dados sido obtido pela organização Our World in Data, no mês de dezembro de 2022, com isso resultados obtidos refletem somente o momento em que os dados foram analisados.
 
 
-##Em relação às mortes, os países que lideravam aos 07 de Dezembro de 2022 em relação ao número de mortes eram: 
+## Em relação às mortes, os países que lideravam aos 07 de Dezembro de 2022 em relação ao número de mortes eram: 
 
 * Estados Unidos - 1.082.224 de mortes;
 * Brasil - 690.229 de mortes;
@@ -64,7 +64,7 @@ Estados Unidos, Brasil e Índia representam mais de 34% de todas as mortes do mu
   Singapura| 85.535,38 | 1707 | 5.637.022
   Brunei | 71.809,25 | 225 | 449.002
 
-#COVID-19 no Brasil:
+# COVID-19 no Brasil:
 
 * O primeiro caso no Brasil ocorreu em 26 de fevereiro de 2020 e a primeira morte no Brasil ocorreu em 17 de abril de 2020, foram 20 dias do primeiro caso até a primeira morte.
 
